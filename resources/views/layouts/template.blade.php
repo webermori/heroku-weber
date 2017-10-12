@@ -10,7 +10,7 @@
 <body>
 	<header>
 		<div class="container">
-			<h1>Logo</h1>
+			<h1>Logo 2</h1>
 			<hr>
 		</div>
 	</header>
